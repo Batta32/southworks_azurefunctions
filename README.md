@@ -1,1 +1,0 @@
-# southworks_azurefunctions
