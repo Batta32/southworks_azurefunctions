@@ -31,6 +31,8 @@ Once you clone this repository, open a terminal and follow these steps:
 * macOS High Sierra 
 * Node.js
 * JavaScript
+* Azure Functions
+* Docker
 
 ## Authors
 
